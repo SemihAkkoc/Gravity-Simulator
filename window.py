@@ -1,11 +1,10 @@
 from tkinter import *
-from groups import Groups
+from groups import Groups, dt
 from time import sleep
-import particals
-
 
 HEIGHT = 800
 WIDTH = 800
+TIME_INTERVAL = dt
 
 root = Tk()
 main_frame = Canvas(root, height=HEIGHT, width=WIDTH, bg='white')
@@ -19,7 +18,4 @@ print(group.group[0].position,group.group[1].position)
 while True:
     group.update()
     root.update()
-    sleep(particals.Particals.time_interval)
-
-
-root.mainloop()
+    sleep(TIME_INTERVAL)
