@@ -13,7 +13,7 @@ main_frame.update()
 root.update()
 
 group = Groups(main_frame, 2)
-print(group.group[0].position,group.group[1].position)
+# print(group.group[0].position,group.group[1].position)
 
 while True:
     group.update()
