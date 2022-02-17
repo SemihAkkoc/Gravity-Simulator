@@ -15,7 +15,11 @@ root.update()
 group = Groups(main_frame, 2)
 # print(group.group[0].position,group.group[1].position)
 
-while True:
-    group.update()
-    root.update()
-    sleep(TIME_INTERVAL)
+try:
+    while True:
+        group.update()
+        root.update()
+        sleep(TIME_INTERVAL)
+        
+except:
+    print('Closed')
