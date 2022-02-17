@@ -19,7 +19,8 @@ class Particles:
         self.acceleration = Vector2(0, 0)
 
         self.main_frame = main_frame
-        self.particle = main_frame.create_oval(position[0], position[1], position[0] + diameter, position[1] + diameter, fill=color)
+        self.particle = main_frame.create_oval(self.position.x, self.position.y, self.position.x + diameter, self.position.y + diameter, fill=color)
+
 
     def cm(self, position):
         # determine the position of the center of mass
