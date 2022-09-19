@@ -9,5 +9,5 @@ We generate n number of point masses around a circle with a given initial veloci
 Nothing is perfect, but with [Ulaş Dilek](https://github.com/ulasdilek) we can converge to perfect. 
 
 
-with collaboration [Ulaş Dilek](https://github.com/ulasdilek
-with the supervision [Ali Hakim Taskiran](https://github.com/alihakimtaskiran)
+with collaboration [Ulaş Dilek](https://github.com/ulasdilek)(
+with the supervision [Ali Hakim Taskiran])(https://github.com/alihakimtaskiran)
