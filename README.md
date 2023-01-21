@@ -10,4 +10,4 @@ Nothing is perfect, but with [Ulaş Dilek](https://github.com/ulasdilek) we can 
 
 
 with collaboration [Ulaş Dilek](https://github.com/ulasdilek)(
-with the supervision [Arda Saygan](https://github.com/ArdaSaygan))
+with the supervision [Arda Saygan](https://github.com/ArdaSaygan) and [Ali Hakim Taskiran](https://github.com/alihakimtaskiran))
